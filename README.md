@@ -11,7 +11,7 @@ This is a Vanilla JavaScript widget that can detect a user's internet connection
 
  
 
-## If You Enjoy, Please Support Me ❤️😍
+## If You Enjoy My Content, Please Support Me 😍🙏
 
 💙 PAYPAL DONATION
 
