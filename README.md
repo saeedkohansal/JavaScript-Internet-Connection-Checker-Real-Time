@@ -14,12 +14,15 @@ This is a Vanilla JavaScript widget that can detect a user's internet connection
 ## If You Enjoy, Please Support Me ❤️😍
 
 💙 PAYPAL DONATION
+
 https://paypal.me/gilgeekify
 
 ❤️ PATREON
+
 https://www.patreon.com/gilgeekify
 
 💛 BUY ME A COFFEE
+
 https://www.buymeacoffee.com/gilgeekify
 
 My Public Address To Receive BTC • Bitcoin
