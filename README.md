@@ -8,3 +8,18 @@ This is a Vanilla JavaScript widget that can detect a user's internet connection
 
 ## Video Tutorial [ Creating This Widget From Scratch ]
 [https://youtu.be/_9e_pUc_cLw](https://youtu.be/_9e_pUc_cLw)
+
+--------------------------------------
+💙 PAYPAL DONATION
+--------------------------------------
+https://paypal.me/gilgeekify
+
+----------------------
+❤️ PATREON
+----------------------
+https://www.patreon.com/gilgeekify
+
+------------------------------------
+💛 BUY ME A COFFEE
+------------------------------------
+https://www.buymeacoffee.com/gilgeekify
